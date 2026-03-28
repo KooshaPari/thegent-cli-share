@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "RelayPy"
+name = "relaypy"
 version = "0.1.0"
 description = "CLI share system - command deduplication, task queue, smart merge"
 readme = "README.md"
